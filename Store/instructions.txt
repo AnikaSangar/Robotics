@@ -1,0 +1,9 @@
+Create Store class
+• Add attributes
+  • 2 attributes as dictionary (vegetables, fruits)
+• Add methods
+  • Method to add vegetable item to your basket (take name price quantity of the item you purchase)
+  • Method to add fruit item to your basket (take name price quantity of the item you purchase)
+• Display all items in the store
+• Calculate the total payment (take list of items and return the total price)
+• Check for item availability (take item and return true or false)
