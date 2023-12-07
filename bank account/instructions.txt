@@ -1,0 +1,8 @@
+Bank Account Class
+Write a program that creates a Bank account class. A bank account has the attributes
+accountNumber, customerName and balance. Create the following:
+  - A constructor that takes the three parameters: accountNumber, customerName and
+  balance
+  - A deposit() method for depositing money into the account
+  - A withdraw() method for withdrawing money from the account
+  - A display() method to display the customer’s account details
